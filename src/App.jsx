@@ -1,8 +1,9 @@
 import './App.css'
+import { FollowMouse } from './components/follow-mouse'
 
 function App () {
   return (
-    <h3>Project 3</h3>
+    <main><FollowMouse /></main>
   )
 }
 
